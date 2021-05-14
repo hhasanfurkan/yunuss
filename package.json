@@ -1,0 +1,15 @@
+{
+  "name": "visual-code",
+  "version": "1.0.0",
+  "description": "furki",
+  "main": "furki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "furki",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^3.0.6",
+    "fs": "0.0.1-security"
+  }
+}
